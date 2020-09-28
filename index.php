@@ -18,6 +18,10 @@ and open the template in the editor.
             function mob2(){
                 echo "Function 2";
             }
+            
+            function mob3(){
+                echo "Function 3";
+            }
         ?>
     </body>
 </html>

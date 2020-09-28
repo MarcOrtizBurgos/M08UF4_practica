@@ -14,7 +14,10 @@ and open the template in the editor.
             function mob1(){
                 echo "Function 1";
             }
-        
+            
+            function mob2(){
+                echo "Function 2";
+            }
         ?>
     </body>
 </html>

@@ -22,6 +22,10 @@ and open the template in the editor.
             function mob3(){
                 echo "Function 3";
             }
+            
+            function mob_especial(){
+                echo "Function especial";
+            }
         ?>
     </body>
 </html>

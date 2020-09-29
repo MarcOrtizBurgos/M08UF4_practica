@@ -24,7 +24,7 @@ and open the template in the editor.
             }
             
             function mob_especial(){
-                echo "Function especial";
+                echo "Marc Ortiz Burgos";
             }
         ?>
     </body>
